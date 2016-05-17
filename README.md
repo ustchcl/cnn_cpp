@@ -1,3 +1,7 @@
 #cnn_cpp
 
-> A implement of cnn by c++.
+## Description
+A implement of cnn by c++.
+
+## Todo
+Download it and then make.
